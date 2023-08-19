@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Saswat Meher</h1>
 <h3 align="center">A passionate aspiring Data Professional from India</h3>
 
